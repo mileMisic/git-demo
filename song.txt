@@ -5,3 +5,6 @@ all all
 
 Created new beautiful branch
 branch named feature-two
+
+new text on the way
+to test something new and cool
